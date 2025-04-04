@@ -1,4 +1,3 @@
-```markdown
 # A Question-Answering App
 
 A lean project built with Hugging Face Transformers and PyTorch, designed to answer questions from a given text context. uses on devide NLP.
