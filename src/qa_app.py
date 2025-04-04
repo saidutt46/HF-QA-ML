@@ -1,7 +1,7 @@
 import argparse
 import logging
 from transformers import pipeline
-from utils import chunk_text
+from src.utils import chunk_text
 
 # Set up logging for better visibility during execution.
 logging.basicConfig(level=logging.INFO)
